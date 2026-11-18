@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **本家リポジトリへの移行をおすすめします**
+> このフォークで対処していた問題は、本家の **[WhateverXe 0.8.3](https://github.com/b00t0x/WhateverXe/releases) 以降で修正されました**。
+> 安定性の向上や今後のアップデートを受け取るため、本家の最新版をご利用ください。
+
+
 # WhateverXe-eDP-BootFix
 
 Personal fork of [b00t0x/WhateverXe](https://github.com/b00t0x/WhateverXe) 0.8.2 with one fix, written with Claude Code. [日本語](README_ja.md)
